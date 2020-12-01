@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Top-5-Movies-in-1980/static/css/main.dc6f7b8b.chunk.css",
+    "main.js": "/Top-5-Movies-in-1980/static/js/main.49e7fdaf.chunk.js",
+    "main.js.map": "/Top-5-Movies-in-1980/static/js/main.49e7fdaf.chunk.js.map",
+    "runtime-main.js": "/Top-5-Movies-in-1980/static/js/runtime-main.78accc1a.js",
+    "runtime-main.js.map": "/Top-5-Movies-in-1980/static/js/runtime-main.78accc1a.js.map",
+    "static/js/2.c9dbec2d.chunk.js": "/Top-5-Movies-in-1980/static/js/2.c9dbec2d.chunk.js",
+    "static/js/2.c9dbec2d.chunk.js.map": "/Top-5-Movies-in-1980/static/js/2.c9dbec2d.chunk.js.map",
+    "static/js/3.253bcf1e.chunk.js": "/Top-5-Movies-in-1980/static/js/3.253bcf1e.chunk.js",
+    "static/js/3.253bcf1e.chunk.js.map": "/Top-5-Movies-in-1980/static/js/3.253bcf1e.chunk.js.map",
+    "index.html": "/Top-5-Movies-in-1980/index.html",
+    "static/css/main.dc6f7b8b.chunk.css.map": "/Top-5-Movies-in-1980/static/css/main.dc6f7b8b.chunk.css.map",
+    "static/js/2.c9dbec2d.chunk.js.LICENSE.txt": "/Top-5-Movies-in-1980/static/js/2.c9dbec2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78accc1a.js",
+    "static/js/2.c9dbec2d.chunk.js",
+    "static/css/main.dc6f7b8b.chunk.css",
+    "static/js/main.49e7fdaf.chunk.js"
+  ]
+}
